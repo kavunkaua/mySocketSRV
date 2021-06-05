@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mySocket": {
+      "commandName": "Project",
+      "commandLineArgs": "23"
+    }
+  }
+}
